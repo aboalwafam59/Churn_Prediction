@@ -8,5 +8,6 @@ Imagine that you are a new data scientist at this video streaming company and yo
 the customer completes all content they were interested in, and no longer need the subscription
 the customer finds themselves to be too busy and cancels their subscription until a later time
 the customer determines that the streaming service is not the best fit for them, so they cancel and look for something better suited
+
 Regardless the reason, this video streaming company has a vested interest in understanding the likelihood of each individual customer to churn in their subscription so that resources can be allocated appropriately to support customers. In this challenge, you will use your machine learning toolkit to do just that!
  
